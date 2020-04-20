@@ -8,4 +8,5 @@
 * [Connect with Facebook Messenger](getting-started/connect-facebook-messenger.md)
 * [Connect with GSuite / Gmail](getting-started/connect-with-gsuite-email.md)
 * [Connect with Whatsapp](getting-started/connect-whatsapp.md)
+* [Add a new staff](getting-started/add-a-new-staff.md)
 
