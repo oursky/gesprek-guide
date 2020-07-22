@@ -9,6 +9,19 @@ After your number is approved by Whatsapp, you will have a business account. It 
 
 * Order Status Template Message (System Message)
     * Order Sent
+       *   e.g.
+            ```
+            Order Confirmation (#IQma2srqAkqb7YQ0uYwFnA)
+
+            Iphone 11 256GB Black
+            Qty: 1
+            Price: HKD 6,899.00
+
+            Total: HKD 6,899.00
+
+            Click here to track your order:
+            https://customer.gesprek.chat/company1/order?token=xxxxxx
+            ```
     * Paid
         * e.g.
             ```
