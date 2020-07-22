@@ -1,20 +1,8 @@
 # Overview of Gesprek
 
-## 15.0.0 - 2042-12-03
+Thanks for using / your interest with Gesprek. We are expanding the help guide to include more information on common how to for Gesprek.
 
-### Fixed
-
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
-
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
+Meanwhile if you have any questions, please send us an email at [hello@gesprek.chat](mailto:hello@gesprek.chat) anytime!
 
 
 
