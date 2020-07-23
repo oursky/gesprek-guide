@@ -18,17 +18,17 @@ However, Gesprek can help you get pre-approval with Whatapp on message templates
 Your WhatsApp message templates must fall into one of the following categories. Templates that do not align clearly with these template types are more likely to be rejected by WhatsApp in the template approval process described below.
 
 
-* *Account Update:* Let customers know about updates or changes to their accounts.
-* *Alert Update:* Send important updates or news to customers.
-* *Appointment Update:* Send confirmations, reminders, or other updates to customers about their appointments.
-* *Auto-Reply:* Send auto-replies to customers when your business isn't online or available to respond right away.
-* *Issue Resolution:* Respond to questions, concerns, or feedback from customers about your business.
-* *Payment Update:* Send a message to customers about their payment.
-* *Personal Finance Update:* Send a message to customers about their personal finances.
-* *Reservation Update:* Send confirmations, reminders, or other updates to customers about their reservations.
-* *Shipping Update:* Send shipping updates to customers about their orders.
-* *Ticket Update:* Send ticketing information or updates to customers.
-* *Transportation Update:* Send transportation information or updates to customers.
+* **Account Update:** Let customers know about updates or changes to their accounts.
+* **Alert Update:** Send important updates or news to customers.
+* **Appointment Update:** Send confirmations, reminders, or other updates to customers about their appointments.
+* **Auto-Reply:** Send auto-replies to customers when your business isn't online or available to respond right away.
+* **Issue Resolution:** Respond to questions, concerns, or feedback from customers about your business.
+* **Payment Update:** Send a message to customers about their payment.
+* **Personal Finance Update:** Send a message to customers about their personal finances.
+* **Reservation Update:** Send confirmations, reminders, or other updates to customers about their reservations.
+* **Shipping Update:** Send shipping updates to customers about their orders.
+* **Ticket Update:** Send ticketing information or updates to customers.
+* **Transportation Update:** Send transportation information or updates to customers.
 
 
 Here are some examples of how pre-approved whatsapp template messages look like:
