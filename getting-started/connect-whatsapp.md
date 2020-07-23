@@ -45,7 +45,7 @@ Feel free to talk with us if you need any help.
 
 E-Commerce orders sent through Gesprek would generate template messages to your customers if you choose to. Here are a list of status in our system. Talk with our representative if you want to change the messages.
 
-#### Order Sent
+##### Order Sent
 
 > Order Confirmation \(\#12345678\)
 >
@@ -58,7 +58,7 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 > Click here to track your order:  
 >  https://customer.gesprek.chat/company1/order?token=xxxxxx
 
-#### Paid
+##### Paid
  
 
 > Order Status Update (#12345678): Paid
@@ -68,9 +68,9 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 > https://customer.gesprek.chat/company1/order?token=xxxxxx
 
     
-#### Processing
+##### Processing
 
-#### Shipped
+##### Shipped
 >Your order (#12345678) is on the way! Here is the details:
 >
 > Carrier: DHL
@@ -81,11 +81,11 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 >
 >https://customer.gesprek.chat/company1/order?token=xxxxxx
 
-#### Completed
+##### Completed
 
-#### Outstanding Payment
+##### Outstanding Payment
 
-#### Receipt Rejected
+##### Receipt Rejected
 
 > Order Status Update (#12345678): Receipt Rejected
 >
@@ -97,20 +97,20 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 >
 > https://customer.gesprek.chat/company1/order?token=xxxxxx
 
-#### Payment Rejected
+##### Payment Rejected
 
-#### Refunding
+##### Refunding
 
-#### Refunded
+##### Refunded
 
-#### Return Request
+##### Return Request
 
-#### Return Handling
+##### Return Handling
 
-#### Return Rejected
+##### Return Rejected
 
-#### Returned
+##### Returned
 
-#### Cancelled
+##### Cancelled
 
 The above messages are just an example, you are free to modify the messages yourself! Tell us and we will update it for you.
