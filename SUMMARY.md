@@ -9,4 +9,5 @@
 * [Connect with GSuite / Gmail](getting-started/connect-with-gsuite-email.md)
 * [Connect with Whatsapp](getting-started/connect-whatsapp.md)
 * [Add a new staff](getting-started/add-a-new-staff.md)
+* [Gesprek Order Status](getting-started/gesprek-order-status.md)
 
