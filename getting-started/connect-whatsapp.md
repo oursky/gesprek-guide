@@ -59,7 +59,6 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 >  https://customer.gesprek.chat/company1/order?token=xxxxxx
 
 ##### Paid
- 
 
 > Order Status Update (#12345678): Paid
 >
@@ -70,7 +69,14 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
     
 ##### Processing
 
+> Order Status Update (#12345678): Processing
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Shipped
+
 >Your order (#12345678) is on the way! Here is the details:
 >
 > Carrier: DHL
@@ -83,7 +89,21 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 
 ##### Completed
 
+> Order Status Update (#12345678): Completed
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Outstanding Payment
+
+> Order Status Update (#12345678): Outstanding Payment
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
 
 ##### Receipt Rejected
 
@@ -99,18 +119,86 @@ E-Commerce orders sent through Gesprek would generate template messages to your 
 
 ##### Payment Rejected
 
+> Order Status Update (#12345678): Payment Rejected
+>
+> Reason: Your payment is cancelled by the Bank
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Refunding
+
+> Order Status Update (#12345678): Refunding
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
 
 ##### Refunded
 
+> Order Status Update (#12345678): Refunded
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Return Request
+
+> Order Status Update (#12345678): Return Request
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
 
 ##### Return Handling
 
+> Order Status Update (#12345678): Return handling
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Return Rejected
+> Order Status Update (#12345678): Return Rejected
+>
+> Reason: We don't accept a return request after 7 days upon receiving the products
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 
 ##### Returned
 
+> Order Status Update (#12345678): Returned
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 ##### Cancelled
+> Order Status Update (#12345678): Cancelled
+>
+> Please contact our staff for further assistance.
+>
+> Click here to track your order:
+>
+> https://customer.gesprek.chat/company1/order?token=xxxxxx
+
 
 The above messages are just an example, you are free to modify the messages yourself! Tell us and we will update it for you.
